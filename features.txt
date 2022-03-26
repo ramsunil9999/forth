@@ -1,0 +1,15 @@
+diff --git a/.gitignore b/.gitignore
+index c149a2c..d5b2e4f 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1 @@
+-
+-ram.txt
++hehe.txt
+diff --git a/hello.txt b/hello.txt
+index e69de29..d94946b 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -0,0 +1,2 @@
++
++hello ram 
